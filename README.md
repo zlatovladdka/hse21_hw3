@@ -14,8 +14,15 @@ https://colab.research.google.com/drive/1sBYm02ZPb-zgg85_LXR02QgWfJklG6Ia?usp=sh
 ![](img/multi6.png)
 ![](img/multi7.png)
 
+### Чтения 
+![](img/all-reaads.png)
+
 
 ## Part 2
 
 https://colab.research.google.com/drive/1y3uTrlfD79d0OHVfQjH8Vutp5HfjN4IE?usp=sharing
+
+### Графики 
+
+
 
