@@ -4,6 +4,15 @@
 
 https://colab.research.google.com/drive/1sBYm02ZPb-zgg85_LXR02QgWfJklG6Ia?usp=sharing
 
+### Данные multiqc
+
+![](img/multi1.png)
+![](img/multi2.png)
+![](img/multi3.png)
+![](img/multi4.png)
+![](img/multi5.png)
+![](img/multi6.png)
+![](img/multi7.png)
 
 
 ## Part 2
