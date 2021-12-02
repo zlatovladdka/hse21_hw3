@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1sBYm02ZPb-zgg85_LXR02QgWfJklG6Ia?usp=sh
 ![](img/multi7.png)
 
 ### Чтения 
-![](img/all-reaads.png)
+![](img/all-reads.png)
 
 #### Подробнее
 
