@@ -25,8 +25,10 @@ https://colab.research.google.com/drive/1sBYm02ZPb-zgg85_LXR02QgWfJklG6Ia?usp=sh
 ![](img/36-hisat.png)
 ![](img/37-hisat.png)
 
+![](img/unique.png)
 
-
+![](img/grep-c.png)
+![](img/grep-r.png)
 
 ## Part 2
 
