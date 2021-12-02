@@ -18,6 +18,13 @@ https://colab.research.google.com/drive/1sBYm02ZPb-zgg85_LXR02QgWfJklG6Ia?usp=sh
 ![](img/all-reads.png)
 
 #### Подробнее
+![](img/29-hisat.png)
+![](img/30-hisat.png)
+![](img/31-hisat.png)
+![](img/35-hisat.png)
+![](img/36-hisat.png)
+![](img/37-hisat.png)
+
 
 
 
