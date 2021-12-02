@@ -17,12 +17,22 @@ https://colab.research.google.com/drive/1sBYm02ZPb-zgg85_LXR02QgWfJklG6Ia?usp=sh
 ### Чтения 
 ![](img/all-reaads.png)
 
+#### Подробнее
+
+
 
 ## Part 2
 
 https://colab.research.google.com/drive/1y3uTrlfD79d0OHVfQjH8Vutp5HfjN4IE?usp=sharing
 
 ### Графики 
+![](img/heatmap.png)
+![](img/ma-plot.png)
+
+#### Несколько генов
+![](img/10.png)
+![](img/156.png)
+![](img/6569.png)
 
 
 
