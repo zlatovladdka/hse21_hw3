@@ -13,6 +13,7 @@ https://colab.research.google.com/drive/1sBYm02ZPb-zgg85_LXR02QgWfJklG6Ia?usp=sh
 ![](img/multi5.png)
 ![](img/multi6.png)
 ![](img/multi7.png)
+![](img/stats.png)
 
 ### Чтения 
 ![](img/all-reads.png)
