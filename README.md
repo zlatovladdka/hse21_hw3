@@ -39,9 +39,9 @@ https://colab.research.google.com/drive/1y3uTrlfD79d0OHVfQjH8Vutp5HfjN4IE?usp=sh
 ![](img/ma-plot.png)
 
 #### Несколько генов
-![](img/10.png)
-![](img/156.png)
-![](img/6569.png)
+![](img/11481.png)
+![](img/12032.png)
+![](img/16564.png)
 
 
 
